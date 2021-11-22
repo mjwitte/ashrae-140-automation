@@ -277,7 +277,7 @@
             "peak_heating_month": "Dec"
         },
         "600": {
-            "annual_cooling_MWh": 6.027,
+            "annual_cooling_MWh": 1.0,
             "annual_heating_MWh": 4.324,
             "peak_cooling_day": 22,
             "peak_cooling_hour": 14,
@@ -289,7 +289,7 @@
             "peak_heating_month": "Dec"
         },
         "610": {
-            "annual_cooling_MWh": 4.333,
+            "annual_cooling_MWh": 10.1,
             "annual_heating_MWh": 4.375,
             "peak_cooling_day": 1,
             "peak_cooling_hour": 14,
